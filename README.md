@@ -29,6 +29,7 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 - [Union Types](https://codesandbox.io/s/rm2rx3opqm)
 - [Interfaces](https://codesandbox.io/s/71x8n304r1)
 - [Finished Snowtooth API CodeSandbox](https://codesandbox.io/s/modest-cherry-rmh4q)
+- [Employee Interface Start](https://github.com/graphqlworkshop/interface-lab/)
 - [Employee Interface Finished](https://github.com/graphqlworkshop/interface-lab/tree/complete)
 - [Employee Interface Gist](https://gist.github.com/eveporcello/28c0b8f99fd01b1a3d9bd9c86ba81379)
 
